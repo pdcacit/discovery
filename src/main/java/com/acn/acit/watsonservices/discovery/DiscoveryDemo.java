@@ -1,9 +1,5 @@
 package com.acn.acit.watsonservices.discovery;
 
-import com.ibm.watson.developer_cloud.discovery.v1.Discovery;
-import com.ibm.watson.developer_cloud.discovery.v1.model.query.QueryRequest;
-import com.ibm.watson.developer_cloud.discovery.v1.model.query.QueryResponse;
-
 public class DiscoveryDemo {
 	/*	
 	 * Please refer on Discovery_HandsOn.ppt
